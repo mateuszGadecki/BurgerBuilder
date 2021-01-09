@@ -47,7 +47,7 @@ export const auth = (email, password, isSignup) => {
     };
     const proxyurl = "https://cors-anywhere.herokuapp.com/";
     let url =
-      "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key={AIzaSyDOZ-CK-y40IJwtppien-f4SanCf5YOH7I";
+      "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyDOZ-CK-y40IJwtppien-f4SanCf5YOH7I";
     if (!isSignup) {
       url =
         "https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyDOZ-CK-y40IJwtppien-f4SanCf5YOH7I";
