@@ -49,5 +49,5 @@ Project is created with:
 
 ## Course
 
-The project was created with the [course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/8268570?start=15#overview).
+The project was created with the [course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 By implementing functionality step by step with the tutor. This project allowed me to deepen my knowledge of front-end developer tools, make me more familiar with Javascript and learn React basics.
